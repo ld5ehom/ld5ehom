@@ -1,4 +1,4 @@
-  <h1>Taewook Park</h1>
+  <h1>Taewook Park (박태욱)</h1>
 <p>- Email    : <a href="mailto:ld5ehom@gmail.com" style="text-decoration: none;">ld5ehom@gmail.com</a></p>
 <p>- LinkedIn : <a href="https://www.linkedin.com/in/ld5ehom" style="text-decoration: none;">linkedin.com/in/ld5ehom</a></p>
 <p>- Portfolio : <a href="https://ld5ehom.github.io/portfolio/" style="text-decoration: none;">ld5ehom.github.io/portfolio/</a></p>
