@@ -19,8 +19,8 @@
 <h2 align="center">
   SKILLS
 </h2>
-  <strong>Languages: (proficient): Swift</strong> &nbsp;&nbsp;&nbsp;
+  <strong>- Languages : (proficient): Swift</strong> &nbsp;&nbsp;&nbsp;
   <span>&nbsp;&nbsp;&nbsp; (familiar): Python , HTML/CSS , JavaScript , Java , C++</span>
 
-  <strong>Technologies:</strong>
+  <strong>- Technologies :</strong>
   <span>Git, Spring Framework, AWS</span>
