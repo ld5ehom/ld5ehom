@@ -1,14 +1,12 @@
-<h1 style="text-align: center;">Taewook Park</h1>
-<h3 style="text-align: center; font-style: italic;">iOS Developer</h3>
-
-<div style="text-align: center; margin-top: 10px;">
-  <a href="mailto:ld5ehom@gmail.com" style="margin-right: 10px;">ld5ehom@gmail.com</a>
-  <span style="margin-right: 10px;">|</span>
-  <a href="https://www.linkedin.com/in/ld5ehom">www.linkedin.com/in/ld5ehom</a>
-  <span style="margin-right: 10px;">|</span>
-  <a href="https://ld5ehom.github.io/portfolio/" style="margin-right: 10px;">Portfolio-Link</a>
+<div style="text-align: center; margin-bottom: 40px;">
+  <h1>Taewook Park</h1>
+  <h3 style="font-style: italic;">iOS Developer</h3>
+<a href="mailto:ld5ehom@gmail.com" style="margin-right: 10px;">Email: ld5ehom@gmail.com</a>
+<span style="margin-right: 10px;">|</span>
+<a href="https://ld5ehom.github.io/portfolio/" style="margin-right: 10px;">Portfolio</a>
+<span style="margin-right: 10px;">|</span>
+<a href="https://www.linkedin.com/in/ld5ehom">LinkedIn</a>
 </div>
-
 
 <h3 style="text-align: left;">EDUCATION</h3>
 <hr>
