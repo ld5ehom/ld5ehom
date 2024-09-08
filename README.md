@@ -1,0 +1,4 @@
+- Email: ld5ehom@gmail.com
+- Portfolio: https://ld5ehom.github.io/portfolio/
+- GitHub: https://github.com/ld5ehom
+- linkedIn: www.linkedin.com/in/ld5ehom
