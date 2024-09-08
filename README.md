@@ -6,7 +6,7 @@
 - Portfolio : www.ld5ehom.github.io/portfolio
 <br>
 
-<h2 align="center">
+<h2>
   EDUCATION
 </h2>
   <h3>University of California, Los Angeles &nbsp;&nbsp;  (2023 - Present) </h3>  
@@ -15,7 +15,7 @@
   <h4>Irvine Valley College &nbsp;&nbsp;&nbsp;(2020 - 2023)</h4>
 <br>
     
-<h2 align="center">
+<h2>
   SKILLS
 </h2>
 
