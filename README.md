@@ -7,13 +7,12 @@
 <h2 style="text-align: left;">EDUCATION</h2>
   <h3><strong>University of California, Los Angeles</strong> (2023 - Present)</span>
 <p>- Major: Linguistics and Computer Science, B.A.</p>
-  <p>Irvine Valley College (2020 - 2023)</p>
+  <h4>Irvine Valley College (2020 - 2023)</h4>
 <br>
-<br>
+    
 <h2 style="text-align: left;">SKILLS</h2>
   <strong>Languages: Swift</strong> 
   <span>, Python , HTML/CSS , JavaScript , Java , C++</span>
 
   <strong>Technologies:</strong>
   <span>Git, Spring Framework, AWS</span>
-<hr>
