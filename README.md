@@ -10,9 +10,8 @@
   EDUCATION
 </h2>
   <h3>University of California, Los Angeles &nbsp;&nbsp;  (2023 - Present) </h3>  
-
 <p>- Major: Linguistics and Computer Science, B.A. </p>
-  <h4>Irvine Valley College &nbsp;&nbsp;&nbsp;(2020 - 2023)</h4>
+
 <br>
     
 <h2>
