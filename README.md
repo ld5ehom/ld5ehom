@@ -9,8 +9,8 @@
 <h2>
   EDUCATION
 </h2>
-  <h3>University of California, Los Angeles &nbsp;&nbsp;  (2023 - Present) </h3>  
-<p>- Major: Linguistics and Computer Science, B.A. </p>
+  <h3>University of California, Los Angeles &nbsp;&nbsp; </h3>  
+<p>- Major: Computer Science & Linguistics </p>
 
 <br>
     
