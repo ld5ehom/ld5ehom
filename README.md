@@ -3,7 +3,6 @@
 
 - Email &nbsp;&nbsp;&nbsp;&nbsp; : ld5ehom@gmail.com
 - LinkedIn : www.linkedin.com/in/ld5ehom
-- Portfolio : https://ld5ehom.github.io/portfolio/
 <br>
 
 <h2>
