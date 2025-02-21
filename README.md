@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Framework Badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git Badge"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS Badge"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 
 
