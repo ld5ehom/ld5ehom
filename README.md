@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin Badge"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
 
-<br/><br/>
+
 <strong>- Technologies :</strong>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React Badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/LLM-800080?style=flat-square&logo=openai&logoColor=white" alt="LLM Badge"/>
 <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square&logo=openai&logoColor=white" alt="RAG Badge"/>
 
-<br/><br/>
+
 <strong>- MLOps / DevOps Tools :</strong>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker Badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git Badge"/>
