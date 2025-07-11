@@ -17,7 +17,7 @@
   SKILLS
 </h2>
 
-<strong>- Languages :</strong><br/>
+<strong>- Languages :</strong>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
 
 <br/><br/>
-<strong>- Technologies :</strong><br/>
+<strong>- Technologies :</strong>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React Badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js Badge"/>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square&logo=openai&logoColor=white" alt="RAG Badge"/>
 
 <br/><br/>
-<strong>- MLOps / DevOps Tools :</strong><br/>
+<strong>- MLOps / DevOps Tools :</strong>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker Badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git Badge"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
