@@ -13,18 +13,16 @@
 
 <br>
     
-<h2>
-  SKILLS
-</h2>
+<h2>SKILLS</h2>
 
-<strong>- Programming Languages & Tools :</strong>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"/> Python (Programming Language)
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R Badge"/> R (Programming Language)
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/> SQL
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau Badge"/> Tableau
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch Badge"/> PyTorch
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django Badge"/> Django
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI Badge"/> FastAPI
+<strong>- Programming Languages & Tools :</strong><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"/> Python (Programming Language) <br>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R Badge"/> R (Programming Language) <br>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge"/> SQL <br>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau Badge"/> Tableau <br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch Badge"/> PyTorch <br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django Badge"/> Django <br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI Badge"/> FastAPI <br>
 
-<strong>- Machine Learning & AI Expertise :</strong>
+<strong>- Machine Learning & AI Expertise :</strong><br>
 Recommender Systems • Retrieval-Augmented Generation (RAG) • Large Language Models (LLM) • Artificial Intelligence (AI) • Statistical Modeling & Analysis
