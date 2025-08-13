@@ -15,7 +15,7 @@
     
 <h2>SKILLS</h2>
 
-<strong>- Programming Languages & Tools :</strong><br>
+<strong>- Programming Languages & Tools :</strong>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -24,10 +24,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 
-<strong>- Machine Learning & AI Expertise :</strong><br>
+<strong>- Machine Learning & AI Expertise :</strong>
 <img src="https://img.shields.io/badge/Recommender%20Systems-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistical%20Modeling%20%26%20Analysis-4CAF50?style=flat-square"/><br>
 <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-1E88E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLM)-FFD21E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence%20(AI)-FF0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Statistical%20Modeling%20%26%20Analysis-4CAF50?style=flat-square"/>
 
