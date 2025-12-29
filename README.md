@@ -16,24 +16,27 @@
 <h2>SKILLS</h2>
 
 <strong>– Languages :</strong>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<strong>– Backend & AI Systems :</strong>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<strong>– Frontend Frameworks :</strong>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-<strong>– LLM & Retrieval :</strong>
-<img src="https://img.shields.io/badge/Vector%20Stores-1F75FE?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square&logo=semantic-web&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-000000?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
+<strong>– LLM & AI Integration :</strong>
+<img src="https://img.shields.io/badge/LLM%20Applications-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG%20Integration-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square"/>
 
-<strong>– Infra & Tools :</strong>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<strong>– Backend-as-a-Service & APIs :</strong>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square"/>
+
+<strong>– Tooling & Collaboration :</strong>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
